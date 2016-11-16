@@ -1,0 +1,13 @@
+"use strict";
+var index_1 = require('./index');
+var router_1 = require('@angular/router');
+exports.WildcardRoutes = [
+    {
+        path: '**',
+        component: index_1.PageNotFoundComponent
+    }
+];
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = router_1.RouterModule.forRoot(exports.WildcardRoutes);
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC80MDQvNDA0LnJvdXRlcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQ0Esc0JBQXNDLFNBQVMsQ0FBQyxDQUFBO0FBQ2hELHVCQUE2QixpQkFBaUIsQ0FBQyxDQUFBO0FBRWxDLHNCQUFjLEdBQVk7SUFDbkM7UUFDSSxJQUFJLEVBQUUsSUFBSTtRQUNWLFNBQVMsRUFBRSw2QkFBcUI7S0FDbkM7Q0FDSixDQUFDO0FBRUY7a0JBQWUscUJBQVksQ0FBQyxPQUFPLENBQUMsc0JBQWMsQ0FBQyxDQUFDIiwiZmlsZSI6ImFwcC80MDQvNDA0LnJvdXRlcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IFJvdXRlIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJztcbmltcG9ydCB7IFBhZ2VOb3RGb3VuZENvbXBvbmVudCB9IGZyb20gJy4vaW5kZXgnO1xuaW1wb3J0IHsgUm91dGVyTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJztcblxuZXhwb3J0IGNvbnN0IFdpbGRjYXJkUm91dGVzOiBSb3V0ZVtdID0gW1xuICAgIHtcbiAgICAgICAgcGF0aDogJyoqJyxcbiAgICAgICAgY29tcG9uZW50OiBQYWdlTm90Rm91bmRDb21wb25lbnRcbiAgICB9XG5dO1xuXG5leHBvcnQgZGVmYXVsdCBSb3V0ZXJNb2R1bGUuZm9yUm9vdChXaWxkY2FyZFJvdXRlcyk7XG4iXX0=
