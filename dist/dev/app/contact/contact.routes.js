@@ -1,0 +1,13 @@
+"use strict";
+var router_1 = require('@angular/router');
+var index_1 = require('./index');
+exports.ContactRoutes = [
+    {
+        path: 'contact-me',
+        component: index_1.ContactComponent
+    }
+];
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = router_1.RouterModule.forRoot(exports.ContactRoutes);
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC9jb250YWN0L2NvbnRhY3Qucm91dGVzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSx1QkFBb0MsaUJBQWlCLENBQUMsQ0FBQTtBQUN0RCxzQkFBaUMsU0FBUyxDQUFDLENBQUE7QUFFOUIscUJBQWEsR0FBWTtJQUNwQztRQUNFLElBQUksRUFBRSxZQUFZO1FBQ2xCLFNBQVMsRUFBRSx3QkFBZ0I7S0FDNUI7Q0FDRixDQUFDO0FBRUY7a0JBQWUscUJBQVksQ0FBQyxPQUFPLENBQUMscUJBQWEsQ0FBQyxDQUFDIiwiZmlsZSI6ImFwcC9jb250YWN0L2NvbnRhY3Qucm91dGVzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgUm91dGUsIFJvdXRlck1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL3JvdXRlcic7XG5pbXBvcnQgeyBDb250YWN0Q29tcG9uZW50IH0gZnJvbSAnLi9pbmRleCc7XG5cbmV4cG9ydCBjb25zdCBDb250YWN0Um91dGVzOiBSb3V0ZVtdID0gW1xuICB7XG4gICAgcGF0aDogJ2NvbnRhY3QtbWUnLFxuICAgIGNvbXBvbmVudDogQ29udGFjdENvbXBvbmVudFxuICB9XG5dO1xuXG5leHBvcnQgZGVmYXVsdCBSb3V0ZXJNb2R1bGUuZm9yUm9vdChDb250YWN0Um91dGVzKTtcbiJdfQ==

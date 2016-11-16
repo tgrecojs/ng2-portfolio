@@ -1,0 +1,23 @@
+## About me
+I am very passionate about technology of all forms. When I first began to study web development, it was clear that I had found a field that interested me very much. I also knew I had honed a skillset that could be very beneficial (if put to good use), so I gave it my best shot. Three years later, my passion for the web continues to grow in addition to my desire to learn more. Now, I am seeking an opportunity to work alongside a team of skilled developers where I can learn from each day.(especially in times of great difficulty). 
+
+#### Graphic Design
+I worked in graphic design prior to becoming involved with the web. When I began working in design, I was a complete greenhorn however it did not take me much time to get acquainted with the tools of the trade - PhotoShop and Illustrator. Although I have not yielded the title of Graphic Designer in some time, it is no doubt an area of great interest to me. In the same way that I love watching my web creations come to life, I become overjoyed whenever I design something that I think is cool. That being said, I do pride myself on having a solid "eye" for good design. This played a tremendous role in the way that I taught myself how to program. Specifically, I started off working to master Sass CSS and responsive frameworks such as Twitter BootStrap. After deeming myself proficient in the design aspect of the web, I surged forward to master JavaScript, a goal I work towards achieving each day. 
+
+
+#### Wordpress Management, SEO, Social Media
+I infiltrated the tech sector via social media. A friend of mine needed someone to run the social media campaigns for a few website's she was maitaining, so I took the bull by the horns and spent a summer working as a social media marketer. Although the job was simple, I was still pretty fascinated by it for a number of reasons. To ensure my work was effective, I began to sift through the web for information regarding the latest trends in social media. When this opportunity came to a close, I felt genuinely excited about technology. I thought it was incredible that I could get paid for tweeting and I began realizing how powerful of a tool the computer really was. *Enter NYC Showguide*
+
+
+#### NYC Showguide
+During this stint in social media, I became exposed to the wordpress CMS. I saw how quickly it allowed users to get up and running with their own websites; so, when the idea of starting my own website came to mind, I quickly worked to create something that people would find useful. I'm an avid music lover and I went to a ton of concerts throughout my time in school. Still, I found myself in situations where I missed concerts I would have attended if I had only been informed of them. To help combat this problem, I began NYCShowguide.com, a website that promoted concerts to young adults in New York's tri-state area. I quickly learned my way around the wordpress UI and worked to persued perfection in regards to SEO. After the first few months, I recruited a team of "showguiders" who helped me update the website with the latest happenings in NYC's music area. The frequent updates with the site helped it appear atop Google; and although it did not generate any revenue, it was truly a fun time and a great experience. 
+
+
+### From CMS to Sass CSS
+It was through NYCShowguide that I realized I had an affinity for programming. It was deemed a viable internship at Fordham, granted that I completed a term paper on the knew insights I had learned throughout the semester. To kick start the semester, I enrolled in a discounted web developer's certification course on Udemy.com. If nothing else, the certification would show that I had dedicated hours towards attaining new knowlegde durng the semester. That being said, I quickly knew that I had tapped into subject matter that I found incredibly interesting. Better yet, I knew that I had found something I was good at! After assessing my past success in graphic design and social media, I wondered why it took so long for me to find programming!
+
+
+
+
+### Friends, Family, and Sports!
+When I am not logging hours on the computer I like to spend time doing all sorts of fun things! I was born and raised in Scranton, PA. Scranton is a unique place. It's filled with large families, so, I, along with my four older siblings, had no shortage of friends growing up. Many of the same people who I ran around (and sometimes terrorized) my neighborhood with are still among my closest friends today and this is something that I believe to be extremely special. 
